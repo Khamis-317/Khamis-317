@@ -9,6 +9,3 @@
 I'm **Mohamed Khamis**, a **junior software engineering student** at **Cairo University**, passionate about all aspects of software development.
 
 ##
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khamis-317/khamis-317/output/snake.svg" alt="Snake animation"/>
-</p>
