@@ -1,6 +1,6 @@
 ##
 
-**Junior software engineering student** at **Cairo University**.
+**Senior software engineering student** at **Cairo University**.
 
 
 ##
